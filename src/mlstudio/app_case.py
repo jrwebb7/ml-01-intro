@@ -327,6 +327,8 @@ def main() -> None:
     LOG.info("Executed successfully!")
     LOG.info("========================")
 
+    print("Phase 4 modification by James Webb completed successfully.")
+
 
 # === CONDITIONAL EXECUTION GUARD ===
 
